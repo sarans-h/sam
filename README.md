@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/sarans-h/sam/tree/master/1063-best-sightseeing-pair) |
 | [1617-stone-game-iv](https://github.com/sarans-h/sam/tree/master/1617-stone-game-iv) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarans-h/sam/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2562-count-ways-to-build-good-strings](https://github.com/sarans-h/sam/tree/master/2562-count-ways-to-build-good-strings) |
 ## Backtracking
 |  |
 | ------- |
