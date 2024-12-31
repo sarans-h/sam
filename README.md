@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/sarans-h/sam/tree/master/0494-target-sum) |
+| [1025-minimum-cost-for-tickets](https://github.com/sarans-h/sam/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/sarans-h/sam/tree/master/1063-best-sightseeing-pair) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarans-h/sam/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1762-furthest-building-you-can-reach](https://github.com/sarans-h/sam/tree/master/1762-furthest-building-you-can-reach) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0097-interleaving-string](https://github.com/sarans-h/sam/tree/master/0097-interleaving-string) |
 | [0494-target-sum](https://github.com/sarans-h/sam/tree/master/0494-target-sum) |
+| [1025-minimum-cost-for-tickets](https://github.com/sarans-h/sam/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/sarans-h/sam/tree/master/1063-best-sightseeing-pair) |
 | [1617-stone-game-iv](https://github.com/sarans-h/sam/tree/master/1617-stone-game-iv) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarans-h/sam/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
