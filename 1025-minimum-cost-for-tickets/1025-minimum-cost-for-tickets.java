@@ -1,8 +1,7 @@
 class Solution {
     int dp[];
     public boolean can(int days[],int run){
-        for(int i:days)if(i==run)return true;
-        return false;
+        return Arrays.binarySearch(days, run) >= 0;
     }
     public int help(int run,int days[],int []costs){
         if(run>days[days.length-1])return 0;
