@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarans-h/sam/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1762-furthest-building-you-can-reach](https://github.com/sarans-h/sam/tree/master/1762-furthest-building-you-can-reach) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/sarans-h/sam/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/sarans-h/sam/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0097-interleaving-string](https://github.com/sarans-h/sam/tree/master/0097-interleaving-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/sarans-h/sam/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Math
 |  |
 | ------- |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/sarans-h/sam/tree/master/1617-stone-game-iv) |
+## Prefix Sum
+|  |
+| ------- |
+| [2691-count-vowel-strings-in-ranges](https://github.com/sarans-h/sam/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
