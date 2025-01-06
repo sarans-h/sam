@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1171-shortest-path-in-binary-matrix](https://github.com/sarans-h/sam/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/sarans-h/sam/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/sarans-h/sam/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/sarans-h/sam/tree/master/0494-target-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/sarans-h/sam/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/sarans-h/sam/tree/master/1063-best-sightseeing-pair) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/sarans-h/sam/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarans-h/sam/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1762-furthest-building-you-can-reach](https://github.com/sarans-h/sam/tree/master/1762-furthest-building-you-can-reach) |
 | [2358-number-of-ways-to-split-array](https://github.com/sarans-h/sam/tree/master/2358-number-of-ways-to-split-array) |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sarans-h/sam/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Matrix
+|  |
+| ------- |
+| [1171-shortest-path-in-binary-matrix](https://github.com/sarans-h/sam/tree/master/1171-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
