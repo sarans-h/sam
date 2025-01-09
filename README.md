@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sarans-h/sam/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/sarans-h/sam/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Dynamic Programming
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/sarans-h/sam/tree/master/0494-target-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/sarans-h/sam/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/sarans-h/sam/tree/master/1063-best-sightseeing-pair) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sarans-h/sam/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1617-stone-game-iv](https://github.com/sarans-h/sam/tree/master/1617-stone-game-iv) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarans-h/sam/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2562-count-ways-to-build-good-strings](https://github.com/sarans-h/sam/tree/master/2562-count-ways-to-build-good-strings) |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sarans-h/sam/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sarans-h/sam/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
