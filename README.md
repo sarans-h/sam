@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sarans-h/sam/tree/master/0042-trapping-rain-water) |
 | [0494-target-sum](https://github.com/sarans-h/sam/tree/master/0494-target-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/sarans-h/sam/tree/master/0560-subarray-sum-equals-k) |
 | [1025-minimum-cost-for-tickets](https://github.com/sarans-h/sam/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/sarans-h/sam/tree/master/1063-best-sightseeing-pair) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sarans-h/sam/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sarans-h/sam/tree/master/0560-subarray-sum-equals-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sarans-h/sam/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/sarans-h/sam/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/sarans-h/sam/tree/master/2465-shifting-letters-ii) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sarans-h/sam/tree/master/0560-subarray-sum-equals-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sarans-h/sam/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Bit Manipulation
 |  |
