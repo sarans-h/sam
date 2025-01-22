@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/sarans-h/sam/tree/master/0407-trapping-rain-water-ii) |
+| [0542-01-matrix](https://github.com/sarans-h/sam/tree/master/0542-01-matrix) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sarans-h/sam/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/sarans-h/sam/tree/master/1753-path-with-minimum-effort) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/sarans-h/sam/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/sarans-h/sam/tree/master/0330-patching-array) |
 | [0407-trapping-rain-water-ii](https://github.com/sarans-h/sam/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/sarans-h/sam/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/sarans-h/sam/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/sarans-h/sam/tree/master/0560-subarray-sum-equals-k) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/sarans-h/sam/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [1025-minimum-cost-for-tickets](https://github.com/sarans-h/sam/tree/master/1025-minimum-cost-for-tickets) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sarans-h/sam/tree/master/0042-trapping-rain-water) |
 | [0097-interleaving-string](https://github.com/sarans-h/sam/tree/master/0097-interleaving-string) |
 | [0494-target-sum](https://github.com/sarans-h/sam/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/sarans-h/sam/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/sarans-h/sam/tree/master/0647-palindromic-substrings) |
 | [1025-minimum-cost-for-tickets](https://github.com/sarans-h/sam/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/sarans-h/sam/tree/master/1063-best-sightseeing-pair) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/sarans-h/sam/tree/master/0407-trapping-rain-water-ii) |
+| [0542-01-matrix](https://github.com/sarans-h/sam/tree/master/0542-01-matrix) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sarans-h/sam/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/sarans-h/sam/tree/master/1753-path-with-minimum-effort) |
 | [2685-first-completely-painted-row-or-column](https://github.com/sarans-h/sam/tree/master/2685-first-completely-painted-row-or-column) |
