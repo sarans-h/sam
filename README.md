@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/sarans-h/sam/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sarans-h/sam/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sarans-h/sam/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sarans-h/sam/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sarans-h/sam/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Two Pointers
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarans-h/sam/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1706-min-cost-to-connect-all-points](https://github.com/sarans-h/sam/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/sarans-h/sam/tree/master/1753-path-with-minimum-effort) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sarans-h/sam/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -228,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/sarans-h/sam/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Sorting
+|  |
+| ------- |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sarans-h/sam/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
