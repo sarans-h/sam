@@ -1,80 +1,62 @@
-
 class Solution {
-    int[] parent;
-    int[] rank;
+    int rank[];
+    int parent[];
+    public int find(int x){
+        if(parent[x]==x)return x;
+        return parent[x]=find(parent[x]);
 
-    // Find with path compression
-    public int find(int x) {
-        if (parent[x] == x) return x;
-        return parent[x] = find(parent[x]);
     }
+    public void union(int x,int y){
+        int xparent=find(x);
+        int yparent=find(y);
+        if(xparent==yparent)return;
+        if(rank[xparent]<rank[yparent]){
+            parent[xparent]=yparent;
 
-    // Union by rank
-    public void union(int x, int y) {
-        int rootX = find(x);
-        int rootY = find(y);
+        }
+        if(rank[xparent]>rank[yparent]){
+            parent[yparent]=xparent;
 
-        if (rootX != rootY) {
-            if (rank[rootX] > rank[rootY]) {
-                parent[rootY] = rootX;
-            } else if (rank[rootX] < rank[rootY]) {
-                parent[rootX] = rootY;
-            } else {
-                parent[rootY] = rootX;
-                rank[rootX]++;
-            }
+        }
+        if(rank[xparent]==rank[yparent]){
+            parent[xparent]=yparent;
+            rank[yparent]++;
         }
     }
-
     public int[] lexicographicallySmallestArray(int[] nums, int limit) {
-        int n = nums.length;
-        parent = new int[n];
-        rank = new int[n];
-
-        // Initialize Union-Find
-        for (int i = 0; i < n; i++) {
-            parent[i] = i;
-            rank[i] = 1;
+        int n=nums.length;
+        parent=new int[n];
+        rank=new int [n];
+        for(int i=0;i<n;i++){parent[i]=i;}
+        int pairs[][]=new int [n][2];
+        for(int i=0;i<n;i++){
+            pairs[i][0]=nums[i];
+            pairs[i][1]=i;
         }
-
-        // Pair numbers with their indices and sort
-        int[][] pairs = new int[n][2];
-        for (int i = 0; i < n; i++) {
-            pairs[i][0] = nums[i];
-            pairs[i][1] = i;
+        Arrays.sort(pairs,(a,b)->a[0]-b[0]);
+        for(int i=1;i<n;i++){
+            if(Math.abs(pairs[i][0]-pairs[i-1][0])<=limit)union(pairs[i][1],pairs[i-1][1]);
         }
-        Arrays.sort(pairs, Comparator.comparingInt(a -> a[0]));
-
-        // Union adjacent elements in the sorted array if |nums[i] - nums[j]| <= limit
-        for (int i = 0; i < n - 1; i++) {
-            if (Math.abs(pairs[i][0] - pairs[i + 1][0]) <= limit) {
-                union(pairs[i][1], pairs[i + 1][1]);
-            }
+        Map<Integer,ArrayList<Integer>>map=new HashMap<>();
+        for(int i=0;i<n;i++){
+            int papa=find(i);
+            map.putIfAbsent(papa,new ArrayList<>());
+            map.get(papa).add(nums[i]);
         }
-
-        // Group elements by their root
-        Map<Integer, List<Integer>> groupMap = new HashMap<>();
-        for (int i = 0; i < n; i++) {
-            int root = find(i);
-            groupMap.putIfAbsent(root, new ArrayList<>());
-            groupMap.get(root).add(nums[i]);
+        for(ArrayList<Integer>m:map.values()){
+            Collections.sort(m);
         }
-
-        // Sort each group
-        for (List<Integer> group : groupMap.values()) {
-            Collections.sort(group);
+        int result[]=new int [n];
+        Map<Integer,Integer>groupIndex=new HashMap<>();
+        for(int i=0;i<n;i++){
+            int root=find(i);
+            int index=groupIndex.getOrDefault(root,0);
+            result[i]=map.get(root).get(index);
+            groupIndex.put(root,index+1);
         }
-
-        // Build the result array
-        int[] result = new int[n];
-        Map<Integer, Integer> groupIndex = new HashMap<>();
-        for (int i = 0; i < n; i++) {
-            int root = find(i);
-            int idx = groupIndex.getOrDefault(root, 0);
-            result[i] = groupMap.get(root).get(idx);
-            groupIndex.put(root, idx + 1);
-        }
-
         return result;
-}
+
+
+
+    }
 }
