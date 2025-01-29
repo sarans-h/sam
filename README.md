@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sarans-h/sam/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/sarans-h/sam/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/sarans-h/sam/tree/master/0542-01-matrix) |
+| [0684-redundant-connection](https://github.com/sarans-h/sam/tree/master/0684-redundant-connection) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sarans-h/sam/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1558-course-schedule-iv](https://github.com/sarans-h/sam/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/sarans-h/sam/tree/master/1753-path-with-minimum-effort) |
@@ -86,12 +87,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sarans-h/sam/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/sarans-h/sam/tree/master/0684-redundant-connection) |
 | [1558-course-schedule-iv](https://github.com/sarans-h/sam/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/sarans-h/sam/tree/master/1753-path-with-minimum-effort) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/sarans-h/sam/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/sarans-h/sam/tree/master/0684-redundant-connection) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sarans-h/sam/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1558-course-schedule-iv](https://github.com/sarans-h/sam/tree/master/1558-course-schedule-iv) |
 | [1706-min-cost-to-connect-all-points](https://github.com/sarans-h/sam/tree/master/1706-min-cost-to-connect-all-points) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sarans-h/sam/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/sarans-h/sam/tree/master/0684-redundant-connection) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarans-h/sam/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1706-min-cost-to-connect-all-points](https://github.com/sarans-h/sam/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/sarans-h/sam/tree/master/1753-path-with-minimum-effort) |
