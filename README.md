@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/sarans-h/sam/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/sarans-h/sam/tree/master/0542-01-matrix) |
 | [0684-redundant-connection](https://github.com/sarans-h/sam/tree/master/0684-redundant-connection) |
+| [0854-making-a-large-island](https://github.com/sarans-h/sam/tree/master/0854-making-a-large-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sarans-h/sam/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1558-course-schedule-iv](https://github.com/sarans-h/sam/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/sarans-h/sam/tree/master/1753-path-with-minimum-effort) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/sarans-h/sam/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/sarans-h/sam/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/sarans-h/sam/tree/master/0560-subarray-sum-equals-k) |
+| [0854-making-a-large-island](https://github.com/sarans-h/sam/tree/master/0854-making-a-large-island) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/sarans-h/sam/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [1025-minimum-cost-for-tickets](https://github.com/sarans-h/sam/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/sarans-h/sam/tree/master/1063-best-sightseeing-pair) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/sarans-h/sam/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/sarans-h/sam/tree/master/0684-redundant-connection) |
+| [0854-making-a-large-island](https://github.com/sarans-h/sam/tree/master/0854-making-a-large-island) |
 | [1558-course-schedule-iv](https://github.com/sarans-h/sam/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/sarans-h/sam/tree/master/1753-path-with-minimum-effort) |
 | [2439-longest-cycle-in-a-graph](https://github.com/sarans-h/sam/tree/master/2439-longest-cycle-in-a-graph) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/sarans-h/sam/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/sarans-h/sam/tree/master/0684-redundant-connection) |
+| [0854-making-a-large-island](https://github.com/sarans-h/sam/tree/master/0854-making-a-large-island) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarans-h/sam/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1706-min-cost-to-connect-all-points](https://github.com/sarans-h/sam/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/sarans-h/sam/tree/master/1753-path-with-minimum-effort) |
@@ -201,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sarans-h/sam/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/sarans-h/sam/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/sarans-h/sam/tree/master/0542-01-matrix) |
+| [0854-making-a-large-island](https://github.com/sarans-h/sam/tree/master/0854-making-a-large-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sarans-h/sam/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/sarans-h/sam/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/sarans-h/sam/tree/master/1876-map-of-highest-peak) |
