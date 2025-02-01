@@ -1,80 +1,71 @@
-import java.util.*;
-
-public class Solution {
-    public int magnificentSets(int n, int[][] edges) {
-        List<Integer>[] graph = new ArrayList[n + 1];
-        for (int i = 1; i <= n; i++) graph[i] = new ArrayList<>();
-        
-        // Build adjacency list
-        for (int[] edge : edges) {
-            graph[edge[0]].add(edge[1]);
-            graph[edge[1]].add(edge[0]);
-        }
-
-        int[] color = new int[n + 1]; // 0: unvisited, 1 & -1: two colors
-        Arrays.fill(color, 0);
-
-        int maxGroups = 0;
-
-        for (int i = 1; i <= n; i++) {
-            if (color[i] == 0) {
-                List<Integer> component = new ArrayList<>();
-                if (!isBipartite(graph, i, color, component)) {
-                    return -1; // If not bipartite, return -1
+class Solution {
+    public boolean isBip(int []color,List<Integer>component,Map<Integer,ArrayList<Integer>>graph,int u){
+        Queue<Integer>q=new LinkedList<>();
+        q.offer(u);
+        color[u]=1;
+        component.add(u);
+        while(!q.isEmpty()){
+            int t=q.poll();
+            for(int v:graph.get(t)){
+                if(color[v]==0){
+                    color[v]=-color[t];
+                    q.offer(v);
+                    component.add(v);
                 }
-                maxGroups += getMaxDepth(graph, component);
-            }
-        }
-        return maxGroups;
-    }
+                else if(color[v]==color[t])return false;
 
-    private boolean isBipartite(List<Integer>[] graph, int start, int[] color, List<Integer> component) {
-        Queue<Integer> queue = new LinkedList<>();
-        queue.offer(start);
-        color[start] = 1;
-        component.add(start);
 
-        while (!queue.isEmpty()) {
-            int node = queue.poll();
-            for (int neighbor : graph[node]) {
-                if (color[neighbor] == 0) {
-                    color[neighbor] = -color[node]; // Alternate color
-                    queue.offer(neighbor);
-                    component.add(neighbor);
-                } else if (color[neighbor] == color[node]) {
-                    return false; // Odd cycle detected, not bipartite
-                }
             }
         }
         return true;
     }
-
-    private int getMaxDepth(List<Integer>[] graph, List<Integer> component) {
-        int maxDepth = 0;
-        for (int node : component) {
-            maxDepth = Math.max(maxDepth, bfsMaxDepth(graph, node));
+    public int magnificentSets(int n, int[][] edges) {
+        Map<Integer,ArrayList<Integer>>graph=new HashMap<>();
+        for(int i=1;i<=n;i++){
+            graph.put(i,new ArrayList<>());
         }
-        return maxDepth;
+        for(int i[]:edges){
+            graph.get(i[0]).add(i[1]);
+            graph.get(i[1]).add(i[0]);
+        }
+int ans=0;
+        int color[]=new int [n+1];
+        for(int i=1;i<=n;i++){
+            if(color[i]==0){
+                List<Integer>component=new ArrayList<>();
+                if(!isBip(color,component,graph,i)){
+                    return -1;
+                }
+                ans+=maxGroup(graph,component);
+            }
+        }
+        return ans;
     }
-
-    private int bfsMaxDepth(List<Integer>[] graph, int start) {
-        Queue<Integer> queue = new LinkedList<>();
-        Map<Integer, Integer> depth = new HashMap<>();
-        queue.offer(start);
-        depth.put(start, 1);
-
-        int maxDepth = 1;
-
-        while (!queue.isEmpty()) {
-            int node = queue.poll();
-            for (int neighbor : graph[node]) {
-                if (!depth.containsKey(neighbor)) {
-                    depth.put(neighbor, depth.get(node) + 1);
-                    queue.offer(neighbor);
-                    maxDepth = Math.max(maxDepth, depth.get(neighbor));
+    public int maxGroup(Map<Integer,ArrayList<Integer>>graph,List<Integer>component){
+        int ans=0;
+        for(int i=0;i<component.size();i++){
+            ans=Math.max(ans,calc(component.get(i),graph));
+        }
+        return ans;
+    }
+    public int calc(int u,Map<Integer,ArrayList<Integer>>graph){
+        Queue<Integer>q=new LinkedList<>();
+        int dist[]=new int [graph.size()+1];
+        Arrays.fill(dist,-1);
+        dist[u]=1;
+        q.offer(u);
+        int maxLevel=1;
+       while (!q.isEmpty()) {
+            int t = q.poll();
+            for (int v : graph.get(t)) {
+                if (dist[v] == -1) {
+                    dist[v] = dist[t] + 1;
+                    maxLevel = Math.max(maxLevel, dist[v]);
+                    q.offer(v);
                 }
             }
         }
-        return maxDepth;
+        return maxLevel;
+
     }
 }
