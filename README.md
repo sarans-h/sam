@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/sarans-h/sam/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/sarans-h/sam/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sarans-h/sam/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/sarans-h/sam/tree/master/0407-trapping-rain-water-ii) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sarans-h/sam/tree/master/0005-longest-palindromic-substring) |
 | [0097-interleaving-string](https://github.com/sarans-h/sam/tree/master/0097-interleaving-string) |
+| [0127-word-ladder](https://github.com/sarans-h/sam/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/sarans-h/sam/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/sarans-h/sam/tree/master/0647-palindromic-substrings) |
 | [1524-string-matching-in-an-array](https://github.com/sarans-h/sam/tree/master/1524-string-matching-in-an-array) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/sarans-h/sam/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/sarans-h/sam/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/sarans-h/sam/tree/master/0560-subarray-sum-equals-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sarans-h/sam/tree/master/2059-unique-length-3-palindromic-subsequences) |
