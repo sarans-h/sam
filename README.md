@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/sarans-h/sam/tree/master/0029-divide-two-integers) |
 | [1617-stone-game-iv](https://github.com/sarans-h/sam/tree/master/1617-stone-game-iv) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarans-h/sam/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Divide and Conquer
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/sarans-h/sam/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/sarans-h/sam/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/sarans-h/sam/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/sarans-h/sam/tree/master/0260-single-number-iii) |
