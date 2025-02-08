@@ -6,7 +6,7 @@ class Solution {
             graph.putIfAbsent(flight[0], new ArrayList<>());
             graph.get(flight[0]).add(new int[]{flight[1], flight[2]});
         }
-       Queue<int[]>pq=new LinkedList<>();
+       PriorityQueue<int[]>pq=new PriorityQueue<>((a,b)->a[2]-b[2]);
         pq.offer(new int []{src,0,0});
         int[]dist=new int[n];
         Arrays.fill(dist,Integer.MAX_VALUE);
