@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/sarans-h/sam/tree/master/0407-trapping-rain-water-ii) |
 | [1753-path-with-minimum-effort](https://github.com/sarans-h/sam/tree/master/1753-path-with-minimum-effort) |
 | [1762-furthest-building-you-can-reach](https://github.com/sarans-h/sam/tree/master/1762-furthest-building-you-can-reach) |
+| [2434-design-a-number-container-system](https://github.com/sarans-h/sam/tree/master/2434-design-a-number-container-system) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/sarans-h/sam/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Simulation
 |  |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sarans-h/sam/tree/master/0560-subarray-sum-equals-k) |
 | [1364-tuple-with-same-product](https://github.com/sarans-h/sam/tree/master/1364-tuple-with-same-product) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sarans-h/sam/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2434-design-a-number-container-system](https://github.com/sarans-h/sam/tree/master/2434-design-a-number-container-system) |
 | [2685-first-completely-painted-row-or-column](https://github.com/sarans-h/sam/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sarans-h/sam/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Bit Manipulation
@@ -291,4 +293,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/sarans-h/sam/tree/master/1364-tuple-with-same-product) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/sarans-h/sam/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/sarans-h/sam/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
