@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/sarans-h/sam/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/sarans-h/sam/tree/master/0050-powx-n) |
 | [1617-stone-game-iv](https://github.com/sarans-h/sam/tree/master/1617-stone-game-iv) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarans-h/sam/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2448-count-number-of-bad-pairs](https://github.com/sarans-h/sam/tree/master/2448-count-number-of-bad-pairs) |
@@ -315,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/sarans-h/sam/tree/master/2434-design-a-number-container-system) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/sarans-h/sam/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
