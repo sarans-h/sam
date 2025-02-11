@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sarans-h/sam/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/sarans-h/sam/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/sarans-h/sam/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/sarans-h/sam/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/sarans-h/sam/tree/master/0137-single-number-ii) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/sarans-h/sam/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/sarans-h/sam/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/sarans-h/sam/tree/master/0494-target-sum) |
 ## String
