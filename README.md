@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarans-h/sam/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/sarans-h/sam/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/sarans-h/sam/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/sarans-h/sam/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/sarans-h/sam/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/sarans-h/sam/tree/master/1876-map-of-highest-peak) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/sarans-h/sam/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/sarans-h/sam/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/sarans-h/sam/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/sarans-h/sam/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2504-find-all-good-indices](https://github.com/sarans-h/sam/tree/master/2504-find-all-good-indices) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/sarans-h/sam/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/sarans-h/sam/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/sarans-h/sam/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2685-first-completely-painted-row-or-column](https://github.com/sarans-h/sam/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sarans-h/sam/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sarans-h/sam/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/sarans-h/sam/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/sarans-h/sam/tree/master/1753-path-with-minimum-effort) |
 | [2439-longest-cycle-in-a-graph](https://github.com/sarans-h/sam/tree/master/2439-longest-cycle-in-a-graph) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/sarans-h/sam/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/sarans-h/sam/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Graph
 |  |
@@ -126,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/sarans-h/sam/tree/master/1706-min-cost-to-connect-all-points) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sarans-h/sam/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2439-longest-cycle-in-a-graph](https://github.com/sarans-h/sam/tree/master/2439-longest-cycle-in-a-graph) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/sarans-h/sam/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/sarans-h/sam/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/sarans-h/sam/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Dynamic Programming
