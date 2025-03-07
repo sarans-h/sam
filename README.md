@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sarans-h/sam/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarans-h/sam/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2448-count-number-of-bad-pairs](https://github.com/sarans-h/sam/tree/master/2448-count-number-of-bad-pairs) |
+| [2610-closest-prime-numbers-in-range](https://github.com/sarans-h/sam/tree/master/2610-closest-prime-numbers-in-range) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -348,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sarans-h/sam/tree/master/0050-powx-n) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/sarans-h/sam/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
