@@ -3,22 +3,21 @@ class Solution {
         int l=0;
         int r=0;
         int ans=0;
-        int maxfreq=0;
-        int hash[]=new int [28];
+        int maxFreq=0;
+        int freq[]=new int[26];
         while(r<s.length()){
-            hash[s.charAt(r)-'A']++;
-            maxfreq=Math.max(maxfreq,hash[s.charAt(r)-'A']);
-            while(((r-l+1)-maxfreq)>k){
-                hash[s.charAt(l)-'A']--;
-                for(int i=0;i<26;i++){
-                    maxfreq=Math.max(maxfreq,hash[i]);
-                }
+            freq[s.charAt(r)-'A']++;
+            maxFreq=Math.max(maxFreq,freq[s.charAt(r)-'A']);
+            while((r-l+1)>(k+maxFreq)){
+                freq[s.charAt(l)-'A']--;
+                for(int i:freq)maxFreq=Math.max(i,maxFreq);
+
                 l++;
             }
-            if((r-l+1)-maxfreq<=k)
             ans=Math.max(ans,r-l+1);
-            r++;
+r++;
+
         }
-        return ans;
+    return ans;
     }
 }
