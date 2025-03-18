@@ -20,31 +20,34 @@
 // }
 class Solution {
     public int trap(int[] height) {
-        int l=0;
-        int r=height.length-1;
-        int leftmax=height[0];
-        int rightmax=height[r];
-        int ans=0;
-        while(l<=r){
+       int ans=0;
+       int leftmax=height[0];
+       int l=0;
+       int r=height.length-1;
+       int rightmax=height[height.length-1];
+       while(l<=r){
             if(leftmax<rightmax){
-                if(height[l]>leftmax){
-                    leftmax=height[l];
-                }
-                else{
+                if(height[l]<leftmax){
                     ans+=(leftmax-height[l]);
-                }
-                l++;
-            }
-            else {
-                if(height[r]>rightmax){
-                    rightmax=height[r];
+
                 }
                 else {
+                    leftmax=height[l];
+                }
+                l++;
+
+            }
+            else{
+                if(height[r]<rightmax){
                     ans+=(rightmax-height[r]);
+
+                }
+                else {
+                    rightmax=height[r];
                 }
                 r--;
             }
-        }
-        return ans;
+       }
+       return ans;
     }
 }
