@@ -1,42 +1,39 @@
 class Solution {
-    public int help(int ind,int prev,int[]nums,int last){
+    public int help(int nums[],int ind,int prevInd,int lastParity){
         if(ind>=nums.length)return 0;
         int take=0;
-        if(prev==0||(last==1&&nums[ind]-nums[prev-1]<0)){
-            take=1+help(ind+1,ind+1,nums,0);
-           
+        if(prevInd==0||(lastParity==1&&nums[ind]-nums[prevInd-1]<0)){
+            take=1+help(nums,ind+1,ind+1,0);
         }
-        if(prev==0||(last==0&&nums[ind]
-        -nums[prev-1]>0)){
-            take=Math.max(take,1+help(ind+1,ind+1,nums,1));
+        if(prevInd==0||(lastParity==0&&nums[ind]-nums[prevInd-1]>0)){
+            take=Math.max(take,1+help(nums,ind+1,ind+1,1));
         }
-        int ntake=help(ind+1,prev,nums,last);
-
+        int ntake=help(nums,ind+1,prevInd,lastParity);
         return Math.max(take,ntake);
-    }
-    public int helpdp(int [][][]dp,int ind,int prev,int[]nums,int last){
-        if(ind>=nums.length)return 0;
-        if(dp[ind][prev][last]!=-1)return dp[ind][prev][last];
-        int take=0;
-        if(prev==0||(last==1&&nums[ind]-nums[prev-1]<0)){
-            take=1+helpdp(dp,ind+1,ind+1,nums,0);
-           
-        }
-        if(prev==0||(last==0&&nums[ind]
-        -nums[prev-1]>0)){
-            take=Math.max(take,1+helpdp(dp,ind+1,ind+1,nums,1));
-        }
-        int ntake=helpdp(dp,ind+1,prev,nums,last);
 
-        return dp[ind][prev][last]=Math.max(take,ntake);
+    }
+    public int help(int nums[]){
+        int dp[][][]=new int[nums.length+2][nums.length+2][2];
+        for(int ind=nums.length-1;ind>=0;ind--){
+            for(int prevInd=0;prevInd<=nums.length;prevInd++){
+                for(int lastParity=0;lastParity<=1;lastParity++){
+                    int take=0;
+                    if(prevInd==nums.length||(lastParity==1&&nums[ind]-nums[prevInd]<0)){
+                        take=1+dp[ind+1][ind][0];
+                    }
+                    if(prevInd==nums.length||(lastParity==0&&nums[ind]-nums[prevInd]>0)){
+                        take=Math.max(take,1+dp[ind+1][ind][1]);
+                    }
+                    int ntake=dp[ind+1][prevInd][lastParity];
+                    dp[ind][prevInd][lastParity]=Math.max(take,ntake);
+                }
+            }
+        }
+        return Math.max(dp[0][nums.length][0],dp[0][nums.length][1]);
+
     }
     public int wiggleMaxLength(int[] nums) {
-        // return help(0,0,nums,0);
-        int dp[][][]=new int [nums.length+1][nums.length+1][2];
-        for(int i=0;i<nums.length;i++){
-            for(int j=0;j<nums.length;j++)
-            Arrays.fill(dp[i][j],-1);
-        }
-        return helpdp(dp,0,0,nums,0);
+        // return help(nums,0,0,0);
+        return help(nums);
     }
 }
