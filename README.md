@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/sarans-h/sam/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/sarans-h/sam/tree/master/0560-subarray-sum-equals-k) |
 | [0854-making-a-large-island](https://github.com/sarans-h/sam/tree/master/0854-making-a-large-island) |
+| [0911-profitable-schemes](https://github.com/sarans-h/sam/tree/master/0911-profitable-schemes) |
 | [0917-boats-to-save-people](https://github.com/sarans-h/sam/tree/master/0917-boats-to-save-people) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/sarans-h/sam/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [1025-minimum-cost-for-tickets](https://github.com/sarans-h/sam/tree/master/1025-minimum-cost-for-tickets) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/sarans-h/sam/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/sarans-h/sam/tree/master/0647-palindromic-substrings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sarans-h/sam/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0911-profitable-schemes](https://github.com/sarans-h/sam/tree/master/0911-profitable-schemes) |
 | [1025-minimum-cost-for-tickets](https://github.com/sarans-h/sam/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/sarans-h/sam/tree/master/1063-best-sightseeing-pair) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sarans-h/sam/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
