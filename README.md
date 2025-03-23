@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/sarans-h/sam/tree/master/1046-max-consecutive-ones-iii) |
 | [1063-best-sightseeing-pair](https://github.com/sarans-h/sam/tree/master/1063-best-sightseeing-pair) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sarans-h/sam/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/sarans-h/sam/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1364-tuple-with-same-product](https://github.com/sarans-h/sam/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sarans-h/sam/tree/master/1370-count-number-of-nice-subarrays) |
 | [1522-stone-game-iii](https://github.com/sarans-h/sam/tree/master/1522-stone-game-iii) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sarans-h/sam/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/sarans-h/sam/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/sarans-h/sam/tree/master/1160-letter-tile-possibilities) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/sarans-h/sam/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sarans-h/sam/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sarans-h/sam/tree/master/2456-construct-smallest-number-from-di-string) |
 ## String
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/sarans-h/sam/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/sarans-h/sam/tree/master/0647-palindromic-substrings) |
 | [1160-letter-tile-possibilities](https://github.com/sarans-h/sam/tree/master/1160-letter-tile-possibilities) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/sarans-h/sam/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sarans-h/sam/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sarans-h/sam/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1517-restore-the-array](https://github.com/sarans-h/sam/tree/master/1517-restore-the-array) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sarans-h/sam/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/sarans-h/sam/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/sarans-h/sam/tree/master/0260-single-number-iii) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/sarans-h/sam/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sarans-h/sam/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2478-longest-nice-subarray](https://github.com/sarans-h/sam/tree/master/2478-longest-nice-subarray) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/sarans-h/sam/tree/master/2533-bitwise-xor-of-all-pairings) |
