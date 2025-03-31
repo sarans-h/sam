@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/sarans-h/sam/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/sarans-h/sam/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/sarans-h/sam/tree/master/0560-subarray-sum-equals-k) |
+| [0741-cherry-pickup](https://github.com/sarans-h/sam/tree/master/0741-cherry-pickup) |
 | [0854-making-a-large-island](https://github.com/sarans-h/sam/tree/master/0854-making-a-large-island) |
 | [0911-profitable-schemes](https://github.com/sarans-h/sam/tree/master/0911-profitable-schemes) |
 | [0917-boats-to-save-people](https://github.com/sarans-h/sam/tree/master/0917-boats-to-save-people) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/sarans-h/sam/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/sarans-h/sam/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/sarans-h/sam/tree/master/0650-2-keys-keyboard) |
+| [0741-cherry-pickup](https://github.com/sarans-h/sam/tree/master/0741-cherry-pickup) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sarans-h/sam/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0911-profitable-schemes](https://github.com/sarans-h/sam/tree/master/0911-profitable-schemes) |
 | [1025-minimum-cost-for-tickets](https://github.com/sarans-h/sam/tree/master/1025-minimum-cost-for-tickets) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sarans-h/sam/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/sarans-h/sam/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/sarans-h/sam/tree/master/0542-01-matrix) |
+| [0741-cherry-pickup](https://github.com/sarans-h/sam/tree/master/0741-cherry-pickup) |
 | [0854-making-a-large-island](https://github.com/sarans-h/sam/tree/master/0854-making-a-large-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sarans-h/sam/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/sarans-h/sam/tree/master/1753-path-with-minimum-effort) |
