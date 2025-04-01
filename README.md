@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/sarans-h/sam/tree/master/0051-n-queens) |
+| [0077-combinations](https://github.com/sarans-h/sam/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/sarans-h/sam/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/sarans-h/sam/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/sarans-h/sam/tree/master/1160-letter-tile-possibilities) |
