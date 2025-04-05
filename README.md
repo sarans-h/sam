@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1762-furthest-building-you-can-reach](https://github.com/sarans-h/sam/tree/master/1762-furthest-building-you-can-reach) |
 | [1876-map-of-highest-peak](https://github.com/sarans-h/sam/tree/master/1876-map-of-highest-peak) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/sarans-h/sam/tree/master/1984-maximum-distance-between-a-pair-of-values) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sarans-h/sam/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2145-grid-game](https://github.com/sarans-h/sam/tree/master/2145-grid-game) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/sarans-h/sam/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sarans-h/sam/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/sarans-h/sam/tree/master/1160-letter-tile-possibilities) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/sarans-h/sam/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sarans-h/sam/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sarans-h/sam/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sarans-h/sam/tree/master/2456-construct-smallest-number-from-di-string) |
 ## String
 |  |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1617-stone-game-iv](https://github.com/sarans-h/sam/tree/master/1617-stone-game-iv) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sarans-h/sam/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarans-h/sam/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sarans-h/sam/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2448-count-number-of-bad-pairs](https://github.com/sarans-h/sam/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/sarans-h/sam/tree/master/2610-closest-prime-numbers-in-range) |
 ## Divide and Conquer
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarans-h/sam/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sarans-h/sam/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Game Theory
 |  |
 | ------- |
@@ -305,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/sarans-h/sam/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/sarans-h/sam/tree/master/0260-single-number-iii) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/sarans-h/sam/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sarans-h/sam/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sarans-h/sam/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2478-longest-nice-subarray](https://github.com/sarans-h/sam/tree/master/2478-longest-nice-subarray) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/sarans-h/sam/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -409,4 +414,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/sarans-h/sam/tree/master/2610-closest-prime-numbers-in-range) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sarans-h/sam/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
