@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sarans-h/sam/tree/master/0200-number-of-islands) |
 | [0260-single-number-iii](https://github.com/sarans-h/sam/tree/master/0260-single-number-iii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sarans-h/sam/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/sarans-h/sam/tree/master/0312-burst-balloons) |
 | [0330-patching-array](https://github.com/sarans-h/sam/tree/master/0330-patching-array) |
 | [0368-largest-divisible-subset](https://github.com/sarans-h/sam/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/sarans-h/sam/tree/master/0376-wiggle-subsequence) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/sarans-h/sam/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/sarans-h/sam/tree/master/0097-interleaving-string) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sarans-h/sam/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/sarans-h/sam/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/sarans-h/sam/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/sarans-h/sam/tree/master/0376-wiggle-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/sarans-h/sam/tree/master/0416-partition-equal-subset-sum) |
