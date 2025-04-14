@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/sarans-h/sam/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1364-tuple-with-same-product](https://github.com/sarans-h/sam/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sarans-h/sam/tree/master/1370-count-number-of-nice-subarrays) |
+| [1393-maximum-value-of-k-coins-from-piles](https://github.com/sarans-h/sam/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1522-stone-game-iii](https://github.com/sarans-h/sam/tree/master/1522-stone-game-iii) |
 | [1524-string-matching-in-an-array](https://github.com/sarans-h/sam/tree/master/1524-string-matching-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sarans-h/sam/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0911-profitable-schemes](https://github.com/sarans-h/sam/tree/master/0911-profitable-schemes) |
 | [1025-minimum-cost-for-tickets](https://github.com/sarans-h/sam/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/sarans-h/sam/tree/master/1063-best-sightseeing-pair) |
+| [1393-maximum-value-of-k-coins-from-piles](https://github.com/sarans-h/sam/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sarans-h/sam/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1517-restore-the-array](https://github.com/sarans-h/sam/tree/master/1517-restore-the-array) |
 | [1522-stone-game-iii](https://github.com/sarans-h/sam/tree/master/1522-stone-game-iii) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sarans-h/sam/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/sarans-h/sam/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sarans-h/sam/tree/master/1370-count-number-of-nice-subarrays) |
+| [1393-maximum-value-of-k-coins-from-piles](https://github.com/sarans-h/sam/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sarans-h/sam/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sarans-h/sam/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/sarans-h/sam/tree/master/2145-grid-game) |
