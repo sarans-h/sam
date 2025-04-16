@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sarans-h/sam/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/sarans-h/sam/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/sarans-h/sam/tree/master/0050-powx-n) |
 | [0096-unique-binary-search-trees](https://github.com/sarans-h/sam/tree/master/0096-unique-binary-search-trees) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sarans-h/sam/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/sarans-h/sam/tree/master/0050-powx-n) |
 ## Number Theory
 |  |
@@ -429,4 +431,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sarans-h/sam/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sarans-h/sam/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
