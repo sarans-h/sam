@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/sarans-h/sam/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0854-making-a-large-island](https://github.com/sarans-h/sam/tree/master/0854-making-a-large-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sarans-h/sam/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1447-jump-game-iv](https://github.com/sarans-h/sam/tree/master/1447-jump-game-iv) |
 | [1558-course-schedule-iv](https://github.com/sarans-h/sam/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/sarans-h/sam/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/sarans-h/sam/tree/master/1876-map-of-highest-peak) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/sarans-h/sam/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sarans-h/sam/tree/master/1370-count-number-of-nice-subarrays) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/sarans-h/sam/tree/master/1393-maximum-value-of-k-coins-from-piles) |
+| [1447-jump-game-iv](https://github.com/sarans-h/sam/tree/master/1447-jump-game-iv) |
 | [1522-stone-game-iii](https://github.com/sarans-h/sam/tree/master/1522-stone-game-iii) |
 | [1524-string-matching-in-an-array](https://github.com/sarans-h/sam/tree/master/1524-string-matching-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sarans-h/sam/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/sarans-h/sam/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/sarans-h/sam/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sarans-h/sam/tree/master/1370-count-number-of-nice-subarrays) |
+| [1447-jump-game-iv](https://github.com/sarans-h/sam/tree/master/1447-jump-game-iv) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sarans-h/sam/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sarans-h/sam/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2434-design-a-number-container-system](https://github.com/sarans-h/sam/tree/master/2434-design-a-number-container-system) |
