@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0911-profitable-schemes](https://github.com/sarans-h/sam/tree/master/0911-profitable-schemes) |
 | [0917-boats-to-save-people](https://github.com/sarans-h/sam/tree/master/0917-boats-to-save-people) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/sarans-h/sam/tree/master/0951-partition-array-into-disjoint-intervals) |
+| [0993-tallest-billboard](https://github.com/sarans-h/sam/tree/master/0993-tallest-billboard) |
 | [1025-minimum-cost-for-tickets](https://github.com/sarans-h/sam/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/sarans-h/sam/tree/master/1046-max-consecutive-ones-iii) |
 | [1063-best-sightseeing-pair](https://github.com/sarans-h/sam/tree/master/1063-best-sightseeing-pair) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/sarans-h/sam/tree/master/0741-cherry-pickup) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sarans-h/sam/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0911-profitable-schemes](https://github.com/sarans-h/sam/tree/master/0911-profitable-schemes) |
+| [0993-tallest-billboard](https://github.com/sarans-h/sam/tree/master/0993-tallest-billboard) |
 | [1025-minimum-cost-for-tickets](https://github.com/sarans-h/sam/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/sarans-h/sam/tree/master/1063-best-sightseeing-pair) |
 | [1240-stone-game-ii](https://github.com/sarans-h/sam/tree/master/1240-stone-game-ii) |
