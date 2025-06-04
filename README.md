@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sarans-h/sam/tree/master/0096-unique-binary-search-trees) |
+| [0543-diameter-of-binary-tree](https://github.com/sarans-h/sam/tree/master/0543-diameter-of-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/sarans-h/sam/tree/master/0832-binary-tree-pruning) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarans-h/sam/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/sarans-h/sam/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sarans-h/sam/tree/master/0096-unique-binary-search-trees) |
+| [0543-diameter-of-binary-tree](https://github.com/sarans-h/sam/tree/master/0543-diameter-of-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/sarans-h/sam/tree/master/0832-binary-tree-pruning) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarans-h/sam/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/sarans-h/sam/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/sarans-h/sam/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sarans-h/sam/tree/master/0200-number-of-islands) |
+| [0543-diameter-of-binary-tree](https://github.com/sarans-h/sam/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/sarans-h/sam/tree/master/0684-redundant-connection) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sarans-h/sam/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0832-binary-tree-pruning](https://github.com/sarans-h/sam/tree/master/0832-binary-tree-pruning) |
