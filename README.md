@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sarans-h/sam/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/sarans-h/sam/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/sarans-h/sam/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/sarans-h/sam/tree/master/0051-n-queens) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sarans-h/sam/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarans-h/sam/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/sarans-h/sam/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/sarans-h/sam/tree/master/0424-longest-repeating-character-replacement) |
