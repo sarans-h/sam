@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sarans-h/sam/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/sarans-h/sam/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/sarans-h/sam/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/sarans-h/sam/tree/master/0060-permutation-sequence) |
 | [0096-unique-binary-search-trees](https://github.com/sarans-h/sam/tree/master/0096-unique-binary-search-trees) |
 | [0368-largest-divisible-subset](https://github.com/sarans-h/sam/tree/master/0368-largest-divisible-subset) |
 | [0650-2-keys-keyboard](https://github.com/sarans-h/sam/tree/master/0650-2-keys-keyboard) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sarans-h/sam/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/sarans-h/sam/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/sarans-h/sam/tree/master/0060-permutation-sequence) |
 ## Number Theory
 |  |
 | ------- |
