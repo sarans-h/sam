@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/sarans-h/sam/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/sarans-h/sam/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/sarans-h/sam/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sarans-h/sam/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2685-first-completely-painted-row-or-column](https://github.com/sarans-h/sam/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sarans-h/sam/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sarans-h/sam/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/sarans-h/sam/tree/master/0917-boats-to-save-people) |
 | [1762-furthest-building-you-can-reach](https://github.com/sarans-h/sam/tree/master/1762-furthest-building-you-can-reach) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sarans-h/sam/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sarans-h/sam/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sarans-h/sam/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2448-count-number-of-bad-pairs](https://github.com/sarans-h/sam/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/sarans-h/sam/tree/master/2610-closest-prime-numbers-in-range) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sarans-h/sam/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/sarans-h/sam/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/sarans-h/sam/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sarans-h/sam/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sarans-h/sam/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2685-first-completely-painted-row-or-column](https://github.com/sarans-h/sam/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sarans-h/sam/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sarans-h/sam/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
