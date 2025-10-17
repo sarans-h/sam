@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2205-find-good-days-to-rob-the-bank](https://github.com/sarans-h/sam/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2504-find-all-good-indices](https://github.com/sarans-h/sam/tree/master/2504-find-all-good-indices) |
 | [2562-count-ways-to-build-good-strings](https://github.com/sarans-h/sam/tree/master/2562-count-ways-to-build-good-strings) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/sarans-h/sam/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Backtracking
 |  |
 | ------- |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/sarans-h/sam/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/sarans-h/sam/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sarans-h/sam/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/sarans-h/sam/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sarans-h/sam/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Math
 |  |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/sarans-h/sam/tree/master/2478-longest-nice-subarray) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/sarans-h/sam/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sarans-h/sam/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/sarans-h/sam/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Matrix
 |  |
 | ------- |
@@ -471,4 +474,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sarans-h/sam/tree/master/0002-add-two-numbers) |
+## Bitmask
+|  |
+| ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/sarans-h/sam/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 <!---LeetCode Topics End-->
