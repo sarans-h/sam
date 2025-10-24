@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sarans-h/sam/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sarans-h/sam/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/sarans-h/sam/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/sarans-h/sam/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sarans-h/sam/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/sarans-h/sam/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/sarans-h/sam/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/sarans-h/sam/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/sarans-h/sam/tree/master/2465-shifting-letters-ii) |
 | [2504-find-all-good-indices](https://github.com/sarans-h/sam/tree/master/2504-find-all-good-indices) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sarans-h/sam/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/sarans-h/sam/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sarans-h/sam/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sarans-h/sam/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sarans-h/sam/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/sarans-h/sam/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -445,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/sarans-h/sam/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sarans-h/sam/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2478-longest-nice-subarray](https://github.com/sarans-h/sam/tree/master/2478-longest-nice-subarray) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/sarans-h/sam/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Counting
 |  |
 | ------- |
