@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/sarans-h/sam/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sarans-h/sam/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sarans-h/sam/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/sarans-h/sam/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sarans-h/sam/tree/master/2456-construct-smallest-number-from-di-string) |
 ## String
 |  |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sarans-h/sam/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarans-h/sam/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sarans-h/sam/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/sarans-h/sam/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2448-count-number-of-bad-pairs](https://github.com/sarans-h/sam/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/sarans-h/sam/tree/master/2610-closest-prime-numbers-in-range) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sarans-h/sam/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1447-jump-game-iv](https://github.com/sarans-h/sam/tree/master/1447-jump-game-iv) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sarans-h/sam/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sarans-h/sam/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/sarans-h/sam/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2434-design-a-number-container-system](https://github.com/sarans-h/sam/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/sarans-h/sam/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sarans-h/sam/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/sarans-h/sam/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/sarans-h/sam/tree/master/1364-tuple-with-same-product) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/sarans-h/sam/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2448-count-number-of-bad-pairs](https://github.com/sarans-h/sam/tree/master/2448-count-number-of-bad-pairs) |
 ## Design
 |  |
@@ -479,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/sarans-h/sam/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sarans-h/sam/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/sarans-h/sam/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Linked List
 |  |
 | ------- |
