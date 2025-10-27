@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sarans-h/sam/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2145-grid-game](https://github.com/sarans-h/sam/tree/master/2145-grid-game) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/sarans-h/sam/tree/master/2205-find-good-days-to-rob-the-bank) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/sarans-h/sam/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sarans-h/sam/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/sarans-h/sam/tree/master/2358-number-of-ways-to-split-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/sarans-h/sam/tree/master/2448-count-number-of-bad-pairs) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/sarans-h/sam/tree/master/1524-string-matching-in-an-array) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/sarans-h/sam/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sarans-h/sam/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/sarans-h/sam/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sarans-h/sam/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sarans-h/sam/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/sarans-h/sam/tree/master/2465-shifting-letters-ii) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarans-h/sam/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sarans-h/sam/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sarans-h/sam/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/sarans-h/sam/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2448-count-number-of-bad-pairs](https://github.com/sarans-h/sam/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/sarans-h/sam/tree/master/2610-closest-prime-numbers-in-range) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sarans-h/sam/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/sarans-h/sam/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/sarans-h/sam/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/sarans-h/sam/tree/master/2145-grid-game) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/sarans-h/sam/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2685-first-completely-painted-row-or-column](https://github.com/sarans-h/sam/tree/master/2685-first-completely-painted-row-or-column) |
 ## String Matching
 |  |
