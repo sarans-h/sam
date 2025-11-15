@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/sarans-h/sam/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/sarans-h/sam/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/sarans-h/sam/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2625-increment-submatrices-by-one](https://github.com/sarans-h/sam/tree/master/2625-increment-submatrices-by-one) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sarans-h/sam/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2685-first-completely-painted-row-or-column](https://github.com/sarans-h/sam/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sarans-h/sam/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/sarans-h/sam/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/sarans-h/sam/tree/master/2465-shifting-letters-ii) |
 | [2504-find-all-good-indices](https://github.com/sarans-h/sam/tree/master/2504-find-all-good-indices) |
+| [2625-increment-submatrices-by-one](https://github.com/sarans-h/sam/tree/master/2625-increment-submatrices-by-one) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sarans-h/sam/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/sarans-h/sam/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Hash Table
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/sarans-h/sam/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/sarans-h/sam/tree/master/2145-grid-game) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sarans-h/sam/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2625-increment-submatrices-by-one](https://github.com/sarans-h/sam/tree/master/2625-increment-submatrices-by-one) |
 | [2685-first-completely-painted-row-or-column](https://github.com/sarans-h/sam/tree/master/2685-first-completely-painted-row-or-column) |
 ## String Matching
 |  |
