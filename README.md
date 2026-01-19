@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sarans-h/sam/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sarans-h/sam/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/sarans-h/sam/tree/master/2358-number-of-ways-to-split-array) |
+| [2420-find-all-good-indices](https://github.com/sarans-h/sam/tree/master/2420-find-all-good-indices) |
 | [2448-count-number-of-bad-pairs](https://github.com/sarans-h/sam/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/sarans-h/sam/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sarans-h/sam/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sarans-h/sam/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sarans-h/sam/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/sarans-h/sam/tree/master/2205-find-good-days-to-rob-the-bank) |
+| [2420-find-all-good-indices](https://github.com/sarans-h/sam/tree/master/2420-find-all-good-indices) |
 | [2504-find-all-good-indices](https://github.com/sarans-h/sam/tree/master/2504-find-all-good-indices) |
 | [2562-count-ways-to-build-good-strings](https://github.com/sarans-h/sam/tree/master/2562-count-ways-to-build-good-strings) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/sarans-h/sam/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/sarans-h/sam/tree/master/2145-grid-game) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/sarans-h/sam/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2358-number-of-ways-to-split-array](https://github.com/sarans-h/sam/tree/master/2358-number-of-ways-to-split-array) |
+| [2420-find-all-good-indices](https://github.com/sarans-h/sam/tree/master/2420-find-all-good-indices) |
 | [2465-shifting-letters-ii](https://github.com/sarans-h/sam/tree/master/2465-shifting-letters-ii) |
 | [2504-find-all-good-indices](https://github.com/sarans-h/sam/tree/master/2504-find-all-good-indices) |
 | [2625-increment-submatrices-by-one](https://github.com/sarans-h/sam/tree/master/2625-increment-submatrices-by-one) |
