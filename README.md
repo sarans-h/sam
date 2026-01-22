@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sarans-h/sam/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/sarans-h/sam/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/sarans-h/sam/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/sarans-h/sam/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/sarans-h/sam/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/sarans-h/sam/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/sarans-h/sam/tree/master/0137-single-number-ii) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sarans-h/sam/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/sarans-h/sam/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/sarans-h/sam/tree/master/0053-maximum-subarray) |
 | [0096-unique-binary-search-trees](https://github.com/sarans-h/sam/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/sarans-h/sam/tree/master/0097-interleaving-string) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sarans-h/sam/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sarans-h/sam/tree/master/0053-maximum-subarray) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarans-h/sam/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Union Find
 |  |
