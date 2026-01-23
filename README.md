@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sarans-h/sam/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/sarans-h/sam/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sarans-h/sam/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sarans-h/sam/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/sarans-h/sam/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/sarans-h/sam/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Two Pointers
@@ -145,11 +146,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sarans-h/sam/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/sarans-h/sam/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sarans-h/sam/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sarans-h/sam/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Simulation
 |  |
 | ------- |
 | [2553-total-cost-to-hire-k-workers](https://github.com/sarans-h/sam/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sarans-h/sam/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sarans-h/sam/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/sarans-h/sam/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/sarans-h/sam/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sarans-h/sam/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sarans-h/sam/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -503,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/sarans-h/sam/tree/master/2434-design-a-number-container-system) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sarans-h/sam/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sarans-h/sam/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -525,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sarans-h/sam/tree/master/0002-add-two-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sarans-h/sam/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sarans-h/sam/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Bitmask
 |  |
 | ------- |
@@ -533,4 +539,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sarans-h/sam/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sarans-h/sam/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
