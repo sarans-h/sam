@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/sarans-h/sam/tree/master/1046-max-consecutive-ones-iii) |
 | [1063-best-sightseeing-pair](https://github.com/sarans-h/sam/tree/master/1063-best-sightseeing-pair) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sarans-h/sam/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1200-minimum-absolute-difference](https://github.com/sarans-h/sam/tree/master/1200-minimum-absolute-difference) |
 | [1240-stone-game-ii](https://github.com/sarans-h/sam/tree/master/1240-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sarans-h/sam/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1357-apply-discount-every-n-orders](https://github.com/sarans-h/sam/tree/master/1357-apply-discount-every-n-orders) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sarans-h/sam/tree/master/0015-3sum) |
 | [0368-largest-divisible-subset](https://github.com/sarans-h/sam/tree/master/0368-largest-divisible-subset) |
 | [0917-boats-to-save-people](https://github.com/sarans-h/sam/tree/master/0917-boats-to-save-people) |
+| [1200-minimum-absolute-difference](https://github.com/sarans-h/sam/tree/master/1200-minimum-absolute-difference) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sarans-h/sam/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sarans-h/sam/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sarans-h/sam/tree/master/2888-minimum-index-of-a-valid-split) |
