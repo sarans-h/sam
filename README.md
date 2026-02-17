@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/sarans-h/sam/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/sarans-h/sam/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/sarans-h/sam/tree/master/0078-subsets) |
+| [0401-binary-watch](https://github.com/sarans-h/sam/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/sarans-h/sam/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/sarans-h/sam/tree/master/1160-letter-tile-possibilities) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/sarans-h/sam/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sarans-h/sam/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/sarans-h/sam/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/sarans-h/sam/tree/master/0260-single-number-iii) |
+| [0401-binary-watch](https://github.com/sarans-h/sam/tree/master/0401-binary-watch) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/sarans-h/sam/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sarans-h/sam/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sarans-h/sam/tree/master/2059-unique-length-3-palindromic-subsequences) |
