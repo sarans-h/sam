@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/sarans-h/sam/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sarans-h/sam/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sarans-h/sam/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sarans-h/sam/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/sarans-h/sam/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/sarans-h/sam/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Two Pointers
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sarans-h/sam/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2625-increment-submatrices-by-one](https://github.com/sarans-h/sam/tree/master/2625-increment-submatrices-by-one) |
 | [2685-first-completely-painted-row-or-column](https://github.com/sarans-h/sam/tree/master/2685-first-completely-painted-row-or-column) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sarans-h/sam/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## String Matching
 |  |
 | ------- |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sarans-h/sam/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sarans-h/sam/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sarans-h/sam/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sarans-h/sam/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/sarans-h/sam/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Topological Sort
 |  |
