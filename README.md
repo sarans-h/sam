@@ -536,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sarans-h/sam/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/sarans-h/sam/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/sarans-h/sam/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/sarans-h/sam/tree/master/0206-reverse-linked-list) |
 ## Number Theory
 |  |
 | ------- |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sarans-h/sam/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/sarans-h/sam/tree/master/0206-reverse-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sarans-h/sam/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sarans-h/sam/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Bitmask
