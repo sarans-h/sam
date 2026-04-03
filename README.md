@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/sarans-h/sam/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/sarans-h/sam/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/sarans-h/sam/tree/master/3643-flip-square-submatrix-vertically) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/sarans-h/sam/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Two Pointers
 |  |
 | ------- |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2504-find-all-good-indices](https://github.com/sarans-h/sam/tree/master/2504-find-all-good-indices) |
 | [2562-count-ways-to-build-good-strings](https://github.com/sarans-h/sam/tree/master/2562-count-ways-to-build-good-strings) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/sarans-h/sam/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/sarans-h/sam/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Backtracking
 |  |
 | ------- |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/sarans-h/sam/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/sarans-h/sam/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/sarans-h/sam/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/sarans-h/sam/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Memoization
 |  |
 | ------- |
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sarans-h/sam/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sarans-h/sam/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/sarans-h/sam/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/sarans-h/sam/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Topological Sort
 |  |
 | ------- |
